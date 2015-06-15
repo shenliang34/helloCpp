@@ -1,0 +1,212 @@
+./obj/local/armeabi/objs-debug/cocos2dxandroid_static/CCCommon.o: \
+  E:\cocos\test\helloWorld\proj.android\../cocos2d/cocos/platform/android/CCCommon.cpp \
+  E:\cocos\test\helloWorld\proj.android\../cocos2d/cocos/platform/android/../..\base/CCPlatformConfig.h \
+  E:\cocos\test\helloWorld\proj.android\../cocos2d/cocos/platform/android/../..\platform/CCCommon.h \
+  E:\cocos\test\helloWorld\proj.android\../cocos2d/cocos/platform/android/../..\base/CCPlatformMacros.h \
+  E:\cocos\test\helloWorld\proj.android\../cocos2d/cocos/platform/android/../..\base/ccConfig.h \
+  E:\cocos\test\helloWorld\proj.android\../cocos2d/cocos/platform/android\CCPlatformDefine.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\android/log.h \
+  E:\cocos\test\helloWorld\proj.android\../cocos2d/cocos/platform/android/jni/Java_org_cocos2dx_lib_Cocos2dxHelper.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\string \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\__config \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\iosfwd \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/../../android/support/include\wchar.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/../../android/support/include\stdio.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\stdio.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\sys/cdefs.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\sys/cdefs_elf.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\android/api-level.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\sys/types.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/../../android/support/include\stdint.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\stdint.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\sys/_types.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\machine/_types.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\limits.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\sys/limits.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\linux/limits.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\machine/internal_types.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\machine/limits.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\sys/syslimits.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\asm/page.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\linux/posix_types.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\linux/stddef.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\linux/compiler.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\asm/posix_types.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\asm/types.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\linux/types.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\machine/kernel.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\sys/sysmacros.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/../../android/support/include\xlocale.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/../../android/support/include\wctype.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\cstring \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/../../android/support/include\string.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\string.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\malloc.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/../../android/support/include\monetary.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\cstdio \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\cwchar \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\cwctype \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\cctype \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/../../android/support/include\ctype.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\ctype.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\algorithm \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\initializer_list \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\cstddef \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\type_traits \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\utility \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\__tuple \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\memory \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\typeinfo \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\exception \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\cstdint \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\new \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\limits \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\iterator \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\__functional_base \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\tuple \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\cassert \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\assert.h \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\atomic \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\__undef_min_max \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\stdexcept \
+  E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\jni.h
+
+E:\cocos\test\helloWorld\proj.android\../cocos2d/cocos/platform/android/../..\base/CCPlatformConfig.h:
+
+E:\cocos\test\helloWorld\proj.android\../cocos2d/cocos/platform/android/../..\platform/CCCommon.h:
+
+E:\cocos\test\helloWorld\proj.android\../cocos2d/cocos/platform/android/../..\base/CCPlatformMacros.h:
+
+E:\cocos\test\helloWorld\proj.android\../cocos2d/cocos/platform/android/../..\base/ccConfig.h:
+
+E:\cocos\test\helloWorld\proj.android\../cocos2d/cocos/platform/android\CCPlatformDefine.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\android/log.h:
+
+E:\cocos\test\helloWorld\proj.android\../cocos2d/cocos/platform/android/jni/Java_org_cocos2dx_lib_Cocos2dxHelper.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\string:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\__config:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\iosfwd:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/../../android/support/include\wchar.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/../../android/support/include\stdio.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\stdio.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\sys/cdefs.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\sys/cdefs_elf.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\android/api-level.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\sys/types.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/../../android/support/include\stdint.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\stdint.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\sys/_types.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\machine/_types.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\limits.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\sys/limits.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\linux/limits.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\machine/internal_types.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\machine/limits.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\sys/syslimits.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\asm/page.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\linux/posix_types.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\linux/stddef.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\linux/compiler.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\asm/posix_types.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\asm/types.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\linux/types.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\machine/kernel.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\sys/sysmacros.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/../../android/support/include\xlocale.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/../../android/support/include\wctype.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\cstring:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/../../android/support/include\string.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\string.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\malloc.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/../../android/support/include\monetary.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\cstdio:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\cwchar:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\cwctype:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\cctype:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/../../android/support/include\ctype.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\ctype.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\algorithm:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\initializer_list:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\cstddef:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\type_traits:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\utility:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\__tuple:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\memory:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\typeinfo:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\exception:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\cstdint:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\new:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\limits:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\iterator:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\__functional_base:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\tuple:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\cassert:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\assert.h:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\atomic:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\__undef_min_max:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/sources/cxx-stl/llvm-libc++/libcxx/include\stdexcept:
+
+E:/cocos2d/android/android-ndk-r9d-windows-x86_64/android-ndk-r9d/platforms/android-9/arch-arm/usr/include\jni.h:
